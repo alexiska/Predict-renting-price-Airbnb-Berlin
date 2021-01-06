@@ -4,6 +4,8 @@
 The purpose of this project is to estimate the renting price in Berlin. This can be used for travelers who want to have a grasp of how much it will cost to stay in Berlin based on different criterias
 Different machine learning regression models have been used to find the best model for this data set.
 
+The data set can be found here: https://data.world/makeovermonday/2019w25
+
 ## Overview
 * Data cleaning and exploratory data analysis
 * Sanity check: Collinearity
